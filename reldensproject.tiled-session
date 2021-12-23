@@ -1,0 +1,154 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "theme/acacia-multiverse/assets/maps/reldens-forest.json",
+    "expandedProjectPaths": [
+        "theme/default/assets",
+        "theme/custom-game-theme-test/assets/maps",
+        "theme",
+        ".",
+        "theme/default/assets/maps",
+        "theme/custom-game-theme-test/assets",
+        "theme/acacia-multiverse/assets/maps"
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "theme/acacia-multiverse/assets/maps/lobby.json": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1526,
+                "y": 1638
+            }
+        },
+        "theme/acacia-multiverse/assets/maps/lobby.json#Agua": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "theme/acacia-multiverse/assets/maps/lobby.json#Chão_Grama_01": {
+            "scaleInDock": 1
+        },
+        "theme/acacia-multiverse/assets/maps/lobby.json#agua": {
+            "dynamicWrapping": true
+        },
+        "theme/acacia-multiverse/assets/maps/lobby.json#chao": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "theme/acacia-multiverse/assets/maps/lobby.json#chão": {
+            "scaleInDock": 1
+        },
+        "theme/acacia-multiverse/assets/maps/lobby.json#chão 2": {
+            "scaleInDock": 1
+        },
+        "theme/acacia-multiverse/assets/maps/lobby.json#lobby_tilesets": {
+            "dynamicWrapping": true
+        },
+        "theme/acacia-multiverse/assets/maps/reldens-forest.json": {
+            "scale": 0.57890625,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 767.8272604588394,
+                "y": 448.2591093117409
+            }
+        },
+        "theme/acacia-multiverse/assets/maps/reldens-forest.json#reldens-forest": {
+            "scaleInDock": 1
+        },
+        "theme/acacia-multiverse/assets/maps/reldens-house-1.json": {
+            "scale": 0.6946874999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 641.2955465587047,
+                "y": 416.73414304993264
+            }
+        },
+        "theme/acacia-multiverse/assets/maps/reldens-house-1.json#reldens-house-1": {
+            "scaleInDock": 1
+        },
+        "theme/custom-game-theme-test/assets/maps/reldens-forest.json": {
+            "scale": 0.57890625,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 771.2820512820514,
+                "y": 448.2591093117409
+            }
+        },
+        "theme/custom-game-theme-test/assets/maps/reldens-forest.json#reldens-forest": {
+            "scaleInDock": 1
+        },
+        "theme/default/assets/maps/reldens-forest.json": {
+            "scale": 0.57890625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 771.2820512820514,
+                "y": 448.2591093117409
+            }
+        },
+        "theme/default/assets/maps/reldens-forest.json#reldens-forest": {
+            "scaleInDock": 1
+        },
+        "theme/default/assets/maps/reldens-house-1.json": {
+            "scale": 0.9262499999999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.97165991902847,
+                "y": 320.10796221322545
+            }
+        },
+        "theme/default/assets/maps/reldens-house-1.json#reldens-house-1": {
+            "scaleInDock": 1
+        },
+        "theme/default/assets/maps/reldens-house-2.json": {
+            "scale": 1.6941666666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 208.0668962124939,
+                "y": 240.53123462862766
+            }
+        },
+        "theme/default/assets/maps/reldens-house-2.json#reldens-house-2": {
+            "scaleInDock": 1
+        },
+        "theme/default/assets/maps/reldens-town.json": {
+            "scale": 0.57890625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 769.5546558704455,
+                "y": 448.2591093117409
+            }
+        },
+        "theme/default/assets/maps/reldens-town.json#reldens-town": {
+            "scaleInDock": 1
+        }
+    },
+    "last.externalTilesetPath": "D:/Workspace-vscode/reldens-skeleton/theme/acacia-multiverse/assets/maps",
+    "last.imagePath": "D:/Workspace-vscode/reldens-skeleton/theme/acacia-multiverse/assets/tilesets",
+    "map.lastUsedFormat": "json",
+    "map.layerDataFormat": null,
+    "map.renderOrder": null,
+    "openFiles": [
+        "theme/acacia-multiverse/assets/maps/reldens-forest.json",
+        "theme/acacia-multiverse/assets/maps/lobby.json",
+        "theme/acacia-multiverse/assets/maps/reldens-house-1.json"
+    ],
+    "project": "reldensproject.tiled-project",
+    "recentFiles": [
+        "theme/acacia-multiverse/assets/maps/reldens-house-1.json",
+        "theme/acacia-multiverse/assets/maps/lobby.json",
+        "theme/acacia-multiverse/assets/maps/reldens-forest.json",
+        "theme/default/assets/maps/reldens-forest.json",
+        "theme/custom-game-theme-test/assets/maps/reldens-forest.json",
+        "theme/default/assets/maps/reldens-house-1.json",
+        "theme/default/assets/maps/reldens-house-2.json",
+        "theme/default/assets/maps/reldens-town.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Ficheiros JSON tileset (*.json)",
+    "tileset.spacing": 0,
+    "tileset.type": 0
+}
