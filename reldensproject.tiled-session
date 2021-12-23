@@ -3,26 +3,36 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "theme/acacia-multiverse/assets/maps/reldens-forest.json",
+    "activeFile": "theme/acacia-multiverse/assets/maps/netherland.json",
     "expandedProjectPaths": [
-        "theme/default/assets",
-        "theme/custom-game-theme-test/assets/maps",
-        "theme",
         ".",
         "theme/default/assets/maps",
+        "theme/acacia-multiverse",
+        "theme/acacia-multiverse/assets",
         "theme/custom-game-theme-test/assets",
-        "theme/acacia-multiverse/assets/maps"
+        "theme/default/assets",
+        "theme/custom-game-theme-test/assets/maps",
+        "theme/acacia-multiverse/assets/maps",
+        "theme"
     ],
     "fileStates": {
         "": {
             "scaleInDock": 1
         },
+        "theme/acacia-multiverse/assets/maps/full.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "theme/acacia-multiverse/assets/maps/full2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "theme/acacia-multiverse/assets/maps/lobby.json": {
             "scale": 0.25,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 1526,
-                "y": 1638
+                "x": 1598,
+                "y": 1598
             }
         },
         "theme/acacia-multiverse/assets/maps/lobby.json#Agua": {
@@ -48,12 +58,35 @@
         "theme/acacia-multiverse/assets/maps/lobby.json#lobby_tilesets": {
             "dynamicWrapping": true
         },
+        "theme/acacia-multiverse/assets/maps/map.tmx": {
+            "scale": 0.1376953125,
+            "selectedLayer": 19,
+            "viewCenter": {
+                "x": 257.8156028368794,
+                "y": -432.1134751773052
+            }
+        },
+        "theme/acacia-multiverse/assets/maps/map.tmx#full": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "theme/acacia-multiverse/assets/maps/netherland.json": {
+            "scale": 0.125,
+            "selectedLayer": 19,
+            "viewCenter": {
+                "x": 756,
+                "y": -708
+            }
+        },
+        "theme/acacia-multiverse/assets/maps/netherland.json#full": {
+            "scaleInDock": 1
+        },
         "theme/acacia-multiverse/assets/maps/reldens-forest.json": {
             "scale": 0.57890625,
             "selectedLayer": 2,
             "viewCenter": {
                 "x": 767.8272604588394,
-                "y": 448.2591093117409
+                "y": 196.05937921727397
             }
         },
         "theme/acacia-multiverse/assets/maps/reldens-forest.json#reldens-forest": {
@@ -63,8 +96,8 @@
             "scale": 0.6946874999999999,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 641.2955465587047,
-                "y": 416.73414304993264
+                "x": 639.8560503823662,
+                "y": 415.29464687359433
             }
         },
         "theme/acacia-multiverse/assets/maps/reldens-house-1.json#reldens-house-1": {
@@ -126,21 +159,28 @@
             "scaleInDock": 1
         }
     },
+    "last.exportedFilePath": "D:/Workspace-vscode/reldens-skeleton/theme/acacia-multiverse/assets/maps",
     "last.externalTilesetPath": "D:/Workspace-vscode/reldens-skeleton/theme/acacia-multiverse/assets/maps",
     "last.imagePath": "D:/Workspace-vscode/reldens-skeleton/theme/acacia-multiverse/assets/tilesets",
+    "map.lastUsedExportFilter": "Ficheiros mapa JSON (*.json)",
     "map.lastUsedFormat": "json",
     "map.layerDataFormat": null,
     "map.renderOrder": null,
     "openFiles": [
         "theme/acacia-multiverse/assets/maps/reldens-forest.json",
         "theme/acacia-multiverse/assets/maps/lobby.json",
-        "theme/acacia-multiverse/assets/maps/reldens-house-1.json"
+        "theme/acacia-multiverse/assets/maps/reldens-house-1.json",
+        "theme/acacia-multiverse/assets/maps/netherland.json"
     ],
     "project": "reldensproject.tiled-project",
     "recentFiles": [
-        "theme/acacia-multiverse/assets/maps/reldens-house-1.json",
-        "theme/acacia-multiverse/assets/maps/lobby.json",
         "theme/acacia-multiverse/assets/maps/reldens-forest.json",
+        "theme/acacia-multiverse/assets/maps/lobby.json",
+        "theme/acacia-multiverse/assets/maps/reldens-house-1.json",
+        "theme/acacia-multiverse/assets/maps/netherland.json",
+        "theme/acacia-multiverse/assets/maps/full2.tsx",
+        "theme/acacia-multiverse/assets/maps/map.tmx",
+        "theme/acacia-multiverse/assets/maps/full.tsx",
         "theme/default/assets/maps/reldens-forest.json",
         "theme/custom-game-theme-test/assets/maps/reldens-forest.json",
         "theme/default/assets/maps/reldens-house-1.json",
